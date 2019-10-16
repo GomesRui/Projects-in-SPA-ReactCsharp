@@ -1,0 +1,13 @@
+.expenseTable {
+  font-size: 15px; /* Increase font-size */
+}
+
+.deleteBtn {
+  font-size: 15px;
+  border-color: red;
+}
+
+.deleteBtn:disabled {
+  background: #dddddd;
+  opacity: 0.5;
+}

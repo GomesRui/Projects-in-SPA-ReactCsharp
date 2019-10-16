@@ -1,0 +1,13 @@
+footer {
+  position: block;
+  bottom: 0px;
+  display: block;
+  font-size: 12px;
+  border-top: 6px solid blue;
+  background-color: lightgrey;
+  width: 100%;
+}
+
+.p-footer {
+  font-size: 10px;
+}

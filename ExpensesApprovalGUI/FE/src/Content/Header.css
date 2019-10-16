@@ -1,0 +1,11 @@
+img {
+  padding: 5px;
+  position: block;
+  left: 0px;
+  max-width: 100px;
+}
+
+header {
+  border-bottom: 6px solid blue;
+  background-color: lightgrey;
+}

@@ -1,0 +1,14 @@
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\bin\Debug\netcoreapp2.1\XCNTWebServer.deps.json
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\bin\Debug\netcoreapp2.1\XCNTWebServer.runtimeconfig.json
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\bin\Debug\netcoreapp2.1\XCNTWebServer.runtimeconfig.dev.json
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\bin\Debug\netcoreapp2.1\XCNTWebServer.dll
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.csproj.CoreCompileInputs.cache
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.RazorAssemblyInfo.cache
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.RazorAssemblyInfo.cs
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.AssemblyInfoInputs.cache
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.AssemblyInfo.cs
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.RazorTargetAssemblyInfo.cache
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\bin\Debug\netcoreapp2.1\XCNTWebServer.pdb
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.dll
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.pdb
+C:\Users\v-ruigom\source\repos\XCNTWebServer\XCNTWebServer\obj\Debug\netcoreapp2.1\XCNTWebServer.csprojAssemblyReference.cache

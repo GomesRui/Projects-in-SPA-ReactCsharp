@@ -1,0 +1,7 @@
+.buttonExpense {
+  float: right;
+}
+.buttonExpense:disabled {
+  background: #dddddd;
+  opacity: 0.5;
+}
